@@ -1,0 +1,635 @@
+,ID,label,recived,sent,freight_flow
+0,santa cruz do rio pardo,santa cruz do rio pardo,31.0,0.0,31.0
+1,pirajui,pirajui,20.0,0.0,20.0
+2,ribeirao branco,ribeirao branco,2.0,0.0,2.0
+3,embu das artes,embu das artes,147.0,0.0,147.0
+4,estrela d'oeste,estrela d'oeste,1.0,0.0,1.0
+5,carapicuiba / sao paulo,carapicuiba / sao paulo,0.0,6.0,6.0
+6,piquete,piquete,8.0,0.0,8.0
+7,santa maria da serra,santa maria da serra,2.0,3.0,5.0
+8,ilha comprida,ilha comprida,2.0,0.0,2.0
+9,campo limpo paulista,campo limpo paulista,43.0,551.0,594.0
+10,monte mor,monte mor,35.0,0.0,35.0
+11,rafard,rafard,3.0,0.0,3.0
+12,tarabai,tarabai,4.0,0.0,4.0
+13,joanopolis,joanopolis,7.0,0.0,7.0
+14,igarapava,igarapava,2.0,0.0,2.0
+15,alvares machado,alvares machado,6.0,3.0,9.0
+16,taguai,taguai,11.0,0.0,11.0
+17,rifaina,rifaina,1.0,0.0,1.0
+18,timburi,timburi,3.0,0.0,3.0
+19,iaras,iaras,1.0,0.0,1.0
+20,monteiro lobato,monteiro lobato,0.0,20.0,20.0
+21,sao joaquim da barra,sao joaquim da barra,45.0,37.0,82.0
+22,sao simao,sao simao,8.0,0.0,8.0
+23,bariri,bariri,21.0,13.0,34.0
+24,lorena,lorena,81.0,1.0,82.0
+25,alambari,alambari,2.0,2.0,4.0
+26,mogi mirim,mogi mirim,88.0,39.0,127.0
+27,pedro de toledo,pedro de toledo,10.0,0.0,10.0
+28,estiva gerbi,estiva gerbi,7.0,0.0,7.0
+29,igarata,igarata,4.0,0.0,4.0
+30,venda branca,venda branca,1.0,0.0,1.0
+31,sao miguel arcanjo,sao miguel arcanjo,11.0,0.0,11.0
+32,avanhandava,avanhandava,5.0,0.0,5.0
+33,pitangueiras,pitangueiras,13.0,1.0,14.0
+34,bento de abreu,bento de abreu,3.0,0.0,3.0
+35,itapetininga,itapetininga,108.0,1.0,109.0
+36,carapicuiba,carapicuiba,359.0,131.0,490.0
+37,pontalinda,pontalinda,2.0,0.0,2.0
+38,itatinga,itatinga,3.0,0.0,3.0
+39,guararapes,guararapes,17.0,0.0,17.0
+40,anhembi,anhembi,1.0,0.0,1.0
+41,balsamo,balsamo,15.0,0.0,15.0
+42,ibirarema,ibirarema,4.0,0.0,4.0
+43,santa cruz das palmeiras,santa cruz das palmeiras,5.0,0.0,5.0
+44,potirendaba,potirendaba,8.0,0.0,8.0
+45,ariranha,ariranha,3.0,0.0,3.0
+46,itapirapua paulista,itapirapua paulista,1.0,0.0,1.0
+47,tabatinga,tabatinga,5.0,21.0,26.0
+48,barrinha,barrinha,14.0,0.0,14.0
+49,primavera,primavera,8.0,0.0,8.0
+50,pirassununga,pirassununga,63.0,0.0,63.0
+51,sao manuel,sao manuel,13.0,0.0,13.0
+52,urania,urania,7.0,0.0,7.0
+53,nova canaa paulista,nova canaa paulista,1.0,0.0,1.0
+54,dracena,dracena,49.0,139.0,188.0
+55,ipigua,ipigua,2.0,0.0,2.0
+56,santa isabel,santa isabel,31.0,0.0,31.0
+57,itaoca,itaoca,1.0,0.0,1.0
+58,bady bassitt,bady bassitt,6.0,5.0,11.0
+59,regente feijo,regente feijo,17.0,0.0,17.0
+60,pindorama,pindorama,2.0,0.0,2.0
+61,riberao preto,riberao preto,0.0,115.0,115.0
+62,onda verde,onda verde,1.0,0.0,1.0
+63,elias fausto,elias fausto,7.0,0.0,7.0
+64,holambra ii,holambra ii,3.0,0.0,3.0
+65,orindiuva,orindiuva,4.0,0.0,4.0
+66,mogi das cruses,mogi das cruses,0.0,12.0,12.0
+67,amparo,amparo,70.0,41.0,111.0
+68,arapei,arapei,2.0,0.0,2.0
+69,santos,santos,856.0,280.0,1136.0
+70,palhoca,palhoca,0.0,1.0,1.0
+71,paranapua,paranapua,2.0,0.0,2.0
+72,riversul,riversul,1.0,0.0,1.0
+73,barueri,barueri,409.0,183.0,592.0
+74,andradina,andradina,40.0,0.0,40.0
+75,aracatuba,aracatuba,149.0,37.0,186.0
+76,itanhaem,itanhaem,104.0,0.0,104.0
+77,itarare,itarare,45.0,0.0,45.0
+78,paraiso,paraiso,4.0,0.0,4.0
+79,gabriel monteiro,gabriel monteiro,1.0,0.0,1.0
+80,sabino,sabino,3.0,0.0,3.0
+81,tremembe,tremembe,36.0,0.0,36.0
+82,aracariguama,aracariguama,6.0,0.0,6.0
+83,engenheiro coelho,engenheiro coelho,9.0,9.0,18.0
+84,paraibuna,paraibuna,9.0,0.0,9.0
+85,itabera,itabera,9.0,0.0,9.0
+86,motuca,motuca,1.0,0.0,1.0
+87,sao joao da boa vista,sao joao da boa vista,78.0,0.0,78.0
+88,sao luis do paraitinga,sao luis do paraitinga,3.0,0.0,3.0
+89,clementina,clementina,4.0,2.0,6.0
+90,mongagua,mongagua,46.0,0.0,46.0
+91,mogi guacu,mogi guacu,0.0,120.0,120.0
+92,registro,registro,40.0,34.0,74.0
+93,guaicara,guaicara,9.0,0.0,9.0
+94,sumare,sumare,188.0,224.0,412.0
+95,sales oliveira,sales oliveira,3.0,0.0,3.0
+96,agudos,agudos,12.0,0.0,12.0
+97,inubia paulista,inubia paulista,3.0,0.0,3.0
+98,franca,franca,224.0,258.0,482.0
+99,pradopolis,pradopolis,12.0,59.0,71.0
+100,chapeco,chapeco,0.0,1.0,1.0
+101,cruzeiro,cruzeiro,66.0,31.0,97.0
+102,itobi,itobi,4.0,0.0,4.0
+103,taquaritinga,taquaritinga,23.0,0.0,23.0
+104,rio grande da serra,rio grande da serra,22.0,0.0,22.0
+105,rubineia,rubineia,1.0,0.0,1.0
+106,salmourao,salmourao,2.0,0.0,2.0
+107,porto feliz,porto feliz,27.0,0.0,27.0
+108,pirapora do bom jesus,pirapora do bom jesus,13.0,0.0,13.0
+109,ibitinga,ibitinga,14.0,4520.0,4534.0
+110,guaratingueta,guaratingueta,77.0,1.0,78.0
+111,icem,icem,12.0,0.0,12.0
+112,cafelandia,cafelandia,6.0,9.0,15.0
+113,guaranta,guaranta,3.0,0.0,3.0
+114,casa branca,casa branca,10.0,0.0,10.0
+115,buritama,buritama,18.0,10.0,28.0
+116,taruma,taruma,7.0,6.0,13.0
+117,ribeirao bonito,ribeirao bonito,5.0,0.0,5.0
+118,igaracu do tiete,igaracu do tiete,4.0,3.0,7.0
+119,caraguatatuba,caraguatatuba,98.0,0.0,98.0
+120,rincao,rincao,1.0,0.0,1.0
+121,americo brasiliense,americo brasiliense,15.0,0.0,15.0
+122,irapuru,irapuru,6.0,0.0,6.0
+123,itaquaquecetuba,itaquaquecetuba,143.0,979.0,1122.0
+124,americo de campos,americo de campos,1.0,0.0,1.0
+125,indaiatuba,indaiatuba,376.0,175.0,551.0
+126,vinhedo,vinhedo,105.0,0.0,105.0
+127,sarutaia,sarutaia,1.0,0.0,1.0
+128,suzanapolis,suzanapolis,1.0,0.0,1.0
+129,paulinia,paulinia,130.0,19.0,149.0
+130,euclides da cunha paulista,euclides da cunha paulista,2.0,0.0,2.0
+131,cruzalia,cruzalia,5.0,0.0,5.0
+132,dourado,dourado,7.0,0.0,7.0
+133,angatuba,angatuba,5.0,0.0,5.0
+134,aluminio,aluminio,13.0,0.0,13.0
+135,itapecerica da serra,itapecerica da serra,84.0,82.0,166.0
+136,alvares florence,alvares florence,4.0,0.0,4.0
+137,pinhais,pinhais,0.0,3.0,3.0
+138,ouroeste,ouroeste,13.0,0.0,13.0
+139,eldorado,eldorado,5.0,0.0,5.0
+140,pedra bela,pedra bela,2.0,0.0,2.0
+141,sao sebastiao,sao sebastiao,74.0,16.0,90.0
+142,parisi,parisi,1.0,0.0,1.0
+143,porangaba,porangaba,2.0,0.0,2.0
+144,pirangi,pirangi,6.0,0.0,6.0
+145,cajati,cajati,11.0,0.0,11.0
+146,guatapara,guatapara,1.0,0.0,1.0
+147,pauliceia,pauliceia,11.0,0.0,11.0
+148,taiuva,taiuva,18.0,0.0,18.0
+149,coronel macedo,coronel macedo,2.0,0.0,2.0
+150,aguas de santa barbara,aguas de santa barbara,2.0,0.0,2.0
+151,jarinu,jarinu,16.0,1.0,17.0
+152,jumirim,jumirim,10.0,0.0,10.0
+153,dobrada,dobrada,2.0,0.0,2.0
+154,aruja,aruja,65.0,14.0,79.0
+155,peruibe,peruibe,81.0,0.0,81.0
+156,mombuca,mombuca,3.0,10.0,13.0
+157,ouro verde,ouro verde,3.0,0.0,3.0
+158,cunha,cunha,16.0,0.0,16.0
+159,sarapui,sarapui,1.0,0.0,1.0
+160,cabreuva,cabreuva,3.0,0.0,3.0
+161,cabralia paulista,cabralia paulista,2.0,0.0,2.0
+162,guarei,guarei,3.0,0.0,3.0
+163,novo horizonte,novo horizonte,19.0,17.0,36.0
+164,barra bonita,barra bonita,22.0,0.0,22.0
+165,patrocinio paulista,patrocinio paulista,1.0,0.0,1.0
+166,guararema,guararema,9.0,0.0,9.0
+167,pedranopolis,pedranopolis,1.0,0.0,1.0
+168,tupa,tupa,61.0,28.0,89.0
+169,valentim gentil,valentim gentil,3.0,0.0,3.0
+170,ribeirao pretp,ribeirao pretp,0.0,1.0,1.0
+171,birigui,birigui,72.0,98.0,170.0
+172,magda,magda,2.0,0.0,2.0
+173,manduri,manduri,2.0,0.0,2.0
+174,santo andre/sao paulo,santo andre/sao paulo,0.0,9.0,9.0
+175,itaporanga,itaporanga,15.0,1.0,16.0
+176,serrana,serrana,12.0,10.0,22.0
+177,morungaba,morungaba,3.0,0.0,3.0
+178,ferraz de vasconcelos,ferraz de vasconcelos,117.0,26.0,143.0
+179,tapirai,tapirai,1.0,0.0,1.0
+180,sao jose do rio preto,sao jose do rio preto,338.0,1362.0,1700.0
+181,scao jose do rio pardo,scao jose do rio pardo,0.0,23.0,23.0
+182,meridiano,meridiano,1.0,0.0,1.0
+183,itai,itai,8.0,0.0,8.0
+184,dumont,dumont,1.0,0.0,1.0
+185,buritizal,buritizal,1.0,0.0,1.0
+186,iacri,iacri,2.0,0.0,2.0
+187,batatais,batatais,24.0,32.0,56.0
+188,cacapava,cacapava,71.0,0.0,71.0
+189,capela do alto,capela do alto,1.0,0.0,1.0
+190,luiziania,luiziania,2.0,0.0,2.0
+191,chavantes,chavantes,8.0,0.0,8.0
+192,salto grande,salto grande,1.0,0.0,1.0
+193,guarulhos,guarulhos,1093.0,1162.0,2255.0
+194,nhandeara,nhandeara,5.0,1.0,6.0
+195,cordeiropolis,cordeiropolis,9.0,1.0,10.0
+196,ocaucu,ocaucu,3.0,0.0,3.0
+197,osasco,osasco,759.0,303.0,1062.0
+198,embu,embu,19.0,0.0,19.0
+199,holambra,holambra,19.0,0.0,19.0
+200,varzea paulista,varzea paulista,63.0,29.0,92.0
+201,arandu,arandu,3.0,0.0,3.0
+202,tabapua,tabapua,10.0,0.0,10.0
+203,palmares paulista,palmares paulista,1.0,0.0,1.0
+204,andradas,andradas,0.0,6.0,6.0
+205,hortolandia,hortolandia,149.0,311.0,460.0
+206,itajai,itajai,0.0,77.0,77.0
+207,sao lourenco da serra,sao lourenco da serra,8.0,0.0,8.0
+208,joao ramalho,joao ramalho,2.0,0.0,2.0
+209,fartura,fartura,14.0,0.0,14.0
+210,sao paulo,sao paulo,16555.0,14740.0,31295.0
+211,oriente,oriente,4.0,0.0,4.0
+212,cosmopolis,cosmopolis,52.0,2.0,54.0
+213,aguas da prata,aguas da prata,6.0,0.0,6.0
+214,maracai,maracai,13.0,0.0,13.0
+215,bonfim paulista,bonfim paulista,26.0,0.0,26.0
+216,junqueiropolis,junqueiropolis,19.0,0.0,19.0
+217,monte azul paulista,monte azul paulista,18.0,0.0,18.0
+218,santa lucia,santa lucia,3.0,0.0,3.0
+219,santo antonio de posse,santo antonio de posse,13.0,21.0,34.0
+220,ipua,ipua,3.0,0.0,3.0
+221,queiroz,queiroz,1.0,0.0,1.0
+222,sorocaba,sorocaba,631.0,339.0,970.0
+223,borborema,borborema,7.0,0.0,7.0
+224,tecainda,tecainda,1.0,0.0,1.0
+225,santa adelia,santa adelia,9.0,0.0,9.0
+226,robeirao preto,robeirao preto,0.0,1.0,1.0
+227,biritiba-mirim,biritiba-mirim,11.0,0.0,11.0
+228,rio das pedras,rio das pedras,11.0,0.0,11.0
+229,francisco morato,francisco morato,96.0,4.0,100.0
+230,narandiba,narandiba,2.0,0.0,2.0
+231,olimpia,olimpia,39.0,1.0,40.0
+232,tapiratiba,tapiratiba,8.0,0.0,8.0
+233,mendonca,mendonca,2.0,0.0,2.0
+234,piraju,piraju,33.0,0.0,33.0
+235,santa cruz da conceicao,santa cruz da conceicao,3.0,0.0,3.0
+236,pinhalzinho,pinhalzinho,18.0,1.0,19.0
+237,valinhos,valinhos,208.0,57.0,265.0
+238,laranjal paulista,laranjal paulista,20.0,118.0,138.0
+239,rio bonito,rio bonito,0.0,1.0,1.0
+240,candido mota,candido mota,9.0,0.0,9.0
+241,lupercio,lupercio,3.0,0.0,3.0
+242,ribeirao do sul,ribeirao do sul,5.0,0.0,5.0
+243,salesopolis,salesopolis,14.0,0.0,14.0
+244,palestina,palestina,10.0,0.0,10.0
+245,juquitiba,juquitiba,25.0,0.0,25.0
+246,marilia,marilia,163.0,104.0,267.0
+247,candido rodrigues,candido rodrigues,3.0,0.0,3.0
+248,reginopolis,reginopolis,1.0,0.0,1.0
+249,itapevi,itapevi,182.0,35.0,217.0
+250,divinolandia,divinolandia,5.0,0.0,5.0
+251,jales,jales,30.0,87.0,117.0
+252,portoferreira,portoferreira,0.0,3.0,3.0
+253,pedregulho,pedregulho,10.0,3.0,13.0
+254,penapolis,penapolis,52.0,157.0,209.0
+255,curitiba,curitiba,0.0,27.0,27.0
+256,nova granada,nova granada,15.0,0.0,15.0
+257,corumbatai,corumbatai,2.0,0.0,2.0
+258,jau,jau,90.0,200.0,290.0
+259,caxias do sul,caxias do sul,0.0,1.0,1.0
+260,iacanga,iacanga,6.0,0.0,6.0
+261,indiapora,indiapora,2.0,0.0,2.0
+262,cubatao,cubatao,82.0,0.0,82.0
+263,cedral,cedral,4.0,0.0,4.0
+264,lutecia,lutecia,1.0,0.0,1.0
+265,tejupa,tejupa,2.0,0.0,2.0
+266,moncoes,moncoes,2.0,0.0,2.0
+267,itu,itu,119.0,14.0,133.0
+268,rechan,rechan,2.0,0.0,2.0
+269,uchoa,uchoa,3.0,0.0,3.0
+270,presidente epitacio,presidente epitacio,20.0,4.0,24.0
+271,taquarivai,taquarivai,3.0,0.0,3.0
+272,juquia,juquia,8.0,0.0,8.0
+273,roseira,roseira,5.0,0.0,5.0
+274,lucianopolis,lucianopolis,4.0,0.0,4.0
+275,santa gertrudes,santa gertrudes,5.0,0.0,5.0
+276,pompeia,pompeia,31.0,13.0,44.0
+277,guaimbe,guaimbe,0.0,1.0,1.0
+278,sales,sales,5.0,0.0,5.0
+279,anhumas,anhumas,1.0,0.0,1.0
+280,ribeirao pires,ribeirao pires,97.0,133.0,230.0
+281,cardoso,cardoso,2.0,0.0,2.0
+282,getulina,getulina,1.0,0.0,1.0
+283,santa fe do sul,santa fe do sul,23.0,0.0,23.0
+284,pederneiras,pederneiras,25.0,4.0,29.0
+285,guara,guara,5.0,122.0,127.0
+286,cristais paulista,cristais paulista,2.0,0.0,2.0
+287,zacarias,zacarias,2.0,0.0,2.0
+288,natividade da serra,natividade da serra,1.0,0.0,1.0
+289,palmeira d'oeste,palmeira d'oeste,4.0,0.0,4.0
+290,itapura,itapura,6.0,0.0,6.0
+291,areiopolis,areiopolis,1.0,0.0,1.0
+292,general salgado,general salgado,5.0,0.0,5.0
+293,vista alegre do alto,vista alegre do alto,3.0,0.0,3.0
+294,sao francisco,sao francisco,2.0,0.0,2.0
+295,sao pedro,sao pedro,12.0,21.0,33.0
+296,maua,maua,301.0,268.0,569.0
+297,irape,irape,2.0,0.0,2.0
+298,tres fronteiras,tres fronteiras,3.0,0.0,3.0
+299,valparaiso,valparaiso,6.0,0.0,6.0
+300,itapeva,itapeva,75.0,5.0,80.0
+301,altinopolis,altinopolis,2.0,0.0,2.0
+302,socorro,socorro,22.0,17.0,39.0
+303,pedrinhas paulista,pedrinhas paulista,3.0,2.0,5.0
+304,nova guataporanga,nova guataporanga,1.0,0.0,1.0
+305,potim,potim,2.0,0.0,2.0
+306,louveira,louveira,41.0,103.0,144.0
+307,ourinhos,ourinhos,102.0,0.0,102.0
+308,iracemapolis,iracemapolis,17.0,0.0,17.0
+309,areias,areias,12.0,0.0,12.0
+310,jose bonifacio,jose bonifacio,13.0,0.0,13.0
+311,bom jesus dos perdoes,bom jesus dos perdoes,15.0,0.0,15.0
+312,pirituba,pirituba,0.0,74.0,74.0
+313,pindamonhangaba,pindamonhangaba,78.0,0.0,78.0
+314,auriflama,auriflama,10.0,11.0,21.0
+315,cotia,cotia,212.0,115.0,327.0
+316,vera cruz,vera cruz,9.0,0.0,9.0
+317,irapua,irapua,3.0,0.0,3.0
+318,franco da rocha,franco da rocha,94.0,7.0,101.0
+319,silveiras,silveiras,7.0,0.0,7.0
+320,aparecida,aparecida,19.0,38.0,57.0
+321,ubatuba,ubatuba,76.0,3.0,79.0
+322,pariquera-acu,pariquera-acu,10.0,0.0,10.0
+323,descalvado,descalvado,7.0,7.0,14.0
+324,mineiros do tiete,mineiros do tiete,3.0,28.0,31.0
+325,ajapi,ajapi,1.0,0.0,1.0
+326,orlandia,orlandia,28.0,21.0,49.0
+327,sao jose da bela vista,sao jose da bela vista,5.0,0.0,5.0
+328,macatuba,macatuba,20.0,1.0,21.0
+329,taboao da serra,taboao da serra,317.0,32.0,349.0
+330,santa barbara d oeste,santa barbara d oeste,4.0,5.0,9.0
+331,nazare paulista,nazare paulista,8.0,0.0,8.0
+332,sao vicente,sao vicente,148.0,1.0,149.0
+333,balbinos,balbinos,1.0,0.0,1.0
+334,espigao,espigao,2.0,0.0,2.0
+335,embauba,embauba,1.0,0.0,1.0
+336,mirandopolis,mirandopolis,14.0,36.0,50.0
+337,mirante do paranapanema,mirante do paranapanema,2.0,0.0,2.0
+338,guaira,guaira,46.0,1.0,47.0
+339,fernando prestes,fernando prestes,6.0,2.0,8.0
+340,santo anastacio,santo anastacio,24.0,0.0,24.0
+341,urupes,urupes,14.0,0.0,14.0
+342,catigua,catigua,4.0,0.0,4.0
+343,mairipora,mairipora,69.0,14.0,83.0
+344,viradouro,viradouro,14.0,0.0,14.0
+345,jacarei / sao paulo,jacarei / sao paulo,0.0,24.0,24.0
+346,cananeia,cananeia,7.0,4.0,11.0
+347,estrela do norte,estrela do norte,3.0,0.0,3.0
+348,jaboticabal,jaboticabal,51.0,59.0,110.0
+349,aguas de lindoia,aguas de lindoia,18.0,0.0,18.0
+350,macaubal,macaubal,2.0,0.0,2.0
+351,barra do turvo,barra do turvo,4.0,0.0,4.0
+352,nova independencia,nova independencia,1.0,0.0,1.0
+353,ipero,ipero,15.0,0.0,15.0
+354,piracicaba,piracicaba,338.0,1176.0,1514.0
+355,nova campina,nova campina,1.0,0.0,1.0
+356,vargem grande paulista,vargem grande paulista,45.0,10.0,55.0
+357,garca,garca,26.0,48.0,74.0
+358,araras,araras,105.0,30.0,135.0
+359,garulhos,garulhos,0.0,12.0,12.0
+360,auriflama/sp,auriflama/sp,0.0,3.0,3.0
+361,sertaozinho,sertaozinho,77.0,0.0,77.0
+362,sando andre,sando andre,0.0,10.0,10.0
+363,avare,avare,52.0,1.0,53.0
+364,diadema,diadema,285.0,83.0,368.0
+365,colombia,colombia,3.0,0.0,3.0
+366,ribeira,ribeira,3.0,0.0,3.0
+367,boa esperanca do sul,boa esperanca do sul,8.0,0.0,8.0
+368,quata,quata,11.0,0.0,11.0
+369,santo antonio da alegria,santo antonio da alegria,2.0,0.0,2.0
+370,mogi das cruzes,mogi das cruzes,382.0,282.0,664.0
+371,gastao vidigal,gastao vidigal,2.0,0.0,2.0
+372,itapolis,itapolis,38.0,0.0,38.0
+373,sao jose do rio pardo,sao jose do rio pardo,35.0,12.0,47.0
+374,londrina,londrina,0.0,1.0,1.0
+375,neves paulista,neves paulista,2.0,0.0,2.0
+376,belo horizonte,belo horizonte,0.0,62.0,62.0
+377,fernao,fernao,1.0,0.0,1.0
+378,ipaussu,ipaussu,11.0,32.0,43.0
+379,sao jose dos pinhais,sao jose dos pinhais,0.0,2.0,2.0
+380,paulo de faria,paulo de faria,8.0,0.0,8.0
+381,santana de parnaiba,santana de parnaiba,189.0,49.0,238.0
+382,americana,americana,221.0,69.0,290.0
+383,jaci,jaci,1.0,4.0,5.0
+384,sbc/sp,sbc/sp,0.0,6.0,6.0
+385,adamantina,adamantina,33.0,0.0,33.0
+386,cajuru,cajuru,6.0,0.0,6.0
+387,rio de janeiro,rio de janeiro,0.0,2.0,2.0
+388,guaraci,guaraci,2.0,0.0,2.0
+389,ibitiuva,ibitiuva,1.0,0.0,1.0
+390,sao sebastiao da grama,sao sebastiao da grama,2.0,0.0,2.0
+391,mariapolis,mariapolis,2.0,0.0,2.0
+392,ribeirao preto,ribeirao preto,504.0,1115.0,1619.0
+393,taquarituba,taquarituba,13.0,0.0,13.0
+394,bernardino de campos,bernardino de campos,3.0,0.0,3.0
+395,sao caetano do sul,sao caetano do sul,248.0,80.0,328.0
+396,maristela,maristela,3.0,0.0,3.0
+397,barretos,barretos,72.0,21.0,93.0
+398,rancharia,rancharia,19.0,0.0,19.0
+399,santo expedito,santo expedito,1.0,0.0,1.0
+400,brotas,brotas,11.0,8.0,19.0
+401,espirito santo do turvo,espirito santo do turvo,1.0,0.0,1.0
+402,torrinha,torrinha,3.0,0.0,3.0
+403,julio mesquita,julio mesquita,1.0,0.0,1.0
+404,vicente de carvalho,vicente de carvalho,0.0,230.0,230.0
+405,serra negra,serra negra,16.0,64.0,80.0
+406,caconde,caconde,6.0,0.0,6.0
+407,alvaro de carvalho,alvaro de carvalho,2.0,0.0,2.0
+408,caiua,caiua,2.0,0.0,2.0
+409,sao carlos,sao carlos,205.0,78.0,283.0
+410,guapiacu,guapiacu,5.0,0.0,5.0
+411,tupi paulista,tupi paulista,9.0,0.0,9.0
+412,mogi-mirim,mogi-mirim,2.0,0.0,2.0
+413,pirapozinho,pirapozinho,12.0,0.0,12.0
+414,iepe,iepe,6.0,0.0,6.0
+415,quadra,quadra,1.0,0.0,1.0
+416,nipoa,nipoa,1.0,0.0,1.0
+417,marechal candido rondon,marechal candido rondon,0.0,9.0,9.0
+418,s jose do rio preto,s jose do rio preto,0.0,130.0,130.0
+419,votuporanga,votuporanga,75.0,45.0,120.0
+420,cachoeira paulista,cachoeira paulista,20.0,0.0,20.0
+421,bebedouro,bebedouro,46.0,57.0,103.0
+422,santa rosa de viterbo,santa rosa de viterbo,17.0,6.0,23.0
+423,santa ernestina,santa ernestina,1.0,0.0,1.0
+424,ituverava,ituverava,33.0,0.0,33.0
+425,porto ferreira,porto ferreira,42.0,145.0,187.0
+426,jaborandi,jaborandi,2.0,0.0,2.0
+427,aparecida d'oeste,aparecida d'oeste,1.0,0.0,1.0
+428,ilha solteira,ilha solteira,19.0,0.0,19.0
+429,santo andre,santo andre,766.0,1578.0,2344.0
+430,suzano,suzano,228.0,40.0,268.0
+431,presidente venceslau,presidente venceslau,49.0,0.0,49.0
+432,promissao,promissao,27.0,0.0,27.0
+433,vargem grande do sul,vargem grande do sul,8.0,3.0,11.0
+434,guaracai,guaracai,6.0,0.0,6.0
+435,brauna,brauna,3.0,0.0,3.0
+436,santa branca,santa branca,4.0,0.0,4.0
+437,miracatu,miracatu,12.0,0.0,12.0
+438,bertioga,bertioga,44.0,63.0,107.0
+439,jandira,jandira,103.0,0.0,103.0
+440,sete barras,sete barras,3.0,0.0,3.0
+441,boituva,boituva,54.0,8.0,62.0
+442,sao jose dos campos,sao jose dos campos,682.0,768.0,1450.0
+443,monte alto,monte alto,24.0,2.0,26.0
+444,lins,lins,36.0,0.0,36.0
+445,boraceia,boraceia,1.0,0.0,1.0
+446,lencois paulista,lencois paulista,36.0,44.0,80.0
+447,piratininga,piratininga,9.0,0.0,9.0
+448,oleo,oleo,1.0,0.0,1.0
+449,coroados,coroados,2.0,0.0,2.0
+450,sao joao de iracema,sao joao de iracema,3.0,0.0,3.0
+451,jacupiranga,jacupiranga,5.0,0.0,5.0
+452,cesario lange,cesario lange,9.0,0.0,9.0
+453,jacarei,jacarei,178.0,384.0,562.0
+454,ilhabela,ilhabela,37.0,0.0,37.0
+455,sao roque,sao roque,69.0,70.0,139.0
+456,conchal,conchal,9.0,8.0,17.0
+457,ibate,ibate,14.0,0.0,14.0
+458,buri,buri,7.0,0.0,7.0
+459,terra roxa,terra roxa,1.0,0.0,1.0
+460,guariroba,guariroba,2.0,0.0,2.0
+461,mairinque,mairinque,26.0,2.0,28.0
+462,bilac,bilac,10.0,0.0,10.0
+463,osvaldo cruz,osvaldo cruz,20.0,0.0,20.0
+464,nuporanga,nuporanga,2.0,0.0,2.0
+465,santo antonio do jardim,santo antonio do jardim,5.0,0.0,5.0
+466,mogi-guacu,mogi-guacu,114.0,0.0,114.0
+467,sao bento do sapucai,sao bento do sapucai,7.0,0.0,7.0
+468,saltinho,saltinho,9.0,0.0,9.0
+469,mococa,mococa,31.0,27.0,58.0
+470,pongai,pongai,6.0,0.0,6.0
+471,cerqueira cesar,cerqueira cesar,23.0,5.0,28.0
+472,bauru,bauru,229.0,112.0,341.0
+473,morro agudo,morro agudo,63.0,0.0,63.0
+474,campina do monte alegre,campina do monte alegre,2.0,0.0,2.0
+475,lourdes,lourdes,1.0,0.0,1.0
+476,analandia,analandia,4.0,0.0,4.0
+477,queluz,queluz,1.0,0.0,1.0
+478,florianopolis,florianopolis,0.0,8.0,8.0
+479,itajobi,itajobi,34.0,6.0,40.0
+480,ao bernardo do campo,ao bernardo do campo,0.0,2.0,2.0
+481,iguape,iguape,10.0,0.0,10.0
+482,murutinga do sul,murutinga do sul,2.0,0.0,2.0
+483,macedonia,macedonia,4.0,0.0,4.0
+484,engenheiro balduino,engenheiro balduino,3.0,0.0,3.0
+485,ibira,ibira,6.0,0.0,6.0
+486,santa barbara d'oeste,santa barbara d'oeste,130.0,150.0,280.0
+487,miguelopolis,miguelopolis,13.0,0.0,13.0
+488,blumenau,blumenau,0.0,4.0,4.0
+489,florida paulista,florida paulista,3.0,0.0,3.0
+490,martinopolis,martinopolis,6.0,0.0,6.0
+491,quintana,quintana,3.0,0.0,3.0
+492,pedreira,pedreira,25.0,443.0,468.0
+493,adolfo,adolfo,3.0,0.0,3.0
+494,sao paluo,sao paluo,0.0,3.0,3.0
+495,campos do jordao,campos do jordao,18.0,0.0,18.0
+496,jamaica,jamaica,1.0,0.0,1.0
+497,limeira,limeira,205.0,549.0,754.0
+498,tatui,tatui,67.0,54.0,121.0
+499,paraguacu paulista,paraguacu paulista,18.0,0.0,18.0
+500,glicerio,glicerio,2.0,0.0,2.0
+501,cajamar,cajamar,119.0,86.0,205.0
+502,bananal,bananal,7.0,0.0,7.0
+503,cosmorama,cosmorama,9.0,0.0,9.0
+504,jacare,jacare,8.0,0.0,8.0
+505,rosana,rosana,2.0,0.0,2.0
+506,jundiai,jundiai,591.0,150.0,741.0
+507,aguas de sao pedro,aguas de sao pedro,1.0,0.0,1.0
+508,sao jose do barreiro,sao jose do barreiro,2.0,0.0,2.0
+509,duartina,duartina,11.0,0.0,11.0
+510,novais,novais,1.0,0.0,1.0
+511,itapira,itapira,45.0,0.0,45.0
+512,canitar,canitar,2.0,0.0,2.0
+513,conchas,conchas,6.0,0.0,6.0
+514,bocaina,bocaina,4.0,0.0,4.0
+515,capivari,capivari,23.0,103.0,126.0
+516,bastos,bastos,15.0,0.0,15.0
+517,lagoinha,lagoinha,3.0,0.0,3.0
+518,salto,salto,85.0,714.0,799.0
+519,bofete,bofete,6.0,1.0,7.0
+520,pontal,pontal,11.0,0.0,11.0
+521,jardinopolis,jardinopolis,12.0,0.0,12.0
+522,vargem,vargem,2.0,0.0,2.0
+523,salto de pirapora,salto de pirapora,12.0,0.0,12.0
+524,echapora,echapora,3.0,22.0,25.0
+525,piracaia,piracaia,24.0,0.0,24.0
+526,gaviao peixoto,gaviao peixoto,1.0,0.0,1.0
+527,catanduva,catanduva,63.0,27.0,90.0
+528,taiacu,taiacu,1.0,0.0,1.0
+529,santa salete,santa salete,1.0,0.0,1.0
+530,praia grande,praia grande,318.0,789.0,1107.0
+531,cravinhos,cravinhos,33.0,6.0,39.0
+532,taciba,taciba,1.0,0.0,1.0
+533,pereiras,pereiras,1.0,0.0,1.0
+534,rio claro,rio claro,173.0,72.0,245.0
+535,araraquara,araraquara,156.0,105.0,261.0
+536,charqueada,charqueada,8.0,0.0,8.0
+537,embu-guacu,embu-guacu,62.0,0.0,62.0
+538,rinopolis,rinopolis,2.0,0.0,2.0
+539,lucelia,lucelia,7.0,0.0,7.0
+540,ribeirao preto / sao paulo,ribeirao preto / sao paulo,0.0,35.0,35.0
+541,ubirajara,ubirajara,1.0,0.0,1.0
+542,poa,poa,95.0,88.0,183.0
+543,dois corregos,dois corregos,11.0,28.0,39.0
+544,luis antonio,luis antonio,12.0,0.0,12.0
+545,pilar do sul,pilar do sul,13.0,17.0,30.0
+546,populina,populina,3.0,0.0,3.0
+547,severinia,severinia,3.0,0.0,3.0
+548,agisse,agisse,1.0,0.0,1.0
+549,tiete,tiete,49.0,6.0,55.0
+550,indiana,indiana,2.0,0.0,2.0
+551,herculandia,herculandia,3.0,0.0,3.0
+552,sao bernardo do campo,sao bernardo do campo,932.0,615.0,1547.0
+553,presidente prudente,presidente prudente,168.0,215.0,383.0
+554,aguai,aguai,17.0,0.0,17.0
+555,teodoro sampaio,teodoro sampaio,9.0,0.0,9.0
+556,panorama,panorama,4.0,0.0,4.0
+557,nova odessa,nova odessa,42.0,5.0,47.0
+558,itapui,itapui,5.0,1.0,6.0
+559,santa barbara d´oeste,santa barbara d´oeste,0.0,173.0,173.0
+560,mirassol,mirassol,26.0,19.0,45.0
+561,espirito santo do pinhal,espirito santo do pinhal,12.0,0.0,12.0
+562,sao sebastiao da grama/sp,sao sebastiao da grama/sp,0.0,1.0,1.0
+563,guaruja,guaruja,230.0,22.0,252.0
+564,santa albertina,santa albertina,9.0,0.0,9.0
+565,lavinia,lavinia,3.0,0.0,3.0
+566,braganca paulista,braganca paulista,150.0,50.0,200.0
+567,assis,assis,118.0,169.0,287.0
+568,tambau,tambau,22.0,0.0,22.0
+569,caieiras,caieiras,75.0,0.0,75.0
+570,jaguariuna,jaguariuna,127.0,43.0,170.0
+571,presidente bernardes,presidente bernardes,4.0,0.0,4.0
+572,colina,colina,6.0,0.0,6.0
+573,presidente alves,presidente alves,2.0,0.0,2.0
+574,monte alegre do sul,monte alegre do sul,7.0,3.0,10.0
+575,tocantins,tocantins,0.0,1.0,1.0
+576,itatiba,itatiba,78.0,189.0,267.0
+577,santa mercedes,santa mercedes,1.0,0.0,1.0
+578,apiai,apiai,7.0,0.0,7.0
+579,sud mennucci,sud mennucci,5.0,0.0,5.0
+580,matao,matao,42.0,0.0,42.0
+581,itaju,itaju,7.0,0.0,7.0
+582,embu guacu,embu guacu,0.0,13.0,13.0
+583,cerquilho,cerquilho,35.0,0.0,35.0
+584,brodowski,brodowski,18.0,0.0,18.0
+585,pereira barreto,pereira barreto,12.0,0.0,12.0
+586,jambeiro,jambeiro,7.0,4.0,11.0
+587,palmital,palmital,13.0,0.0,13.0
+588,volta redonda,volta redonda,0.0,44.0,44.0
+589,santa rita do passa quatro,santa rita do passa quatro,24.0,0.0,24.0
+590,fernandopolis,fernandopolis,48.0,116.0,164.0
+591,planalto,planalto,1.0,0.0,1.0
+592,cajobi,cajobi,7.0,0.0,7.0
+593,piquerobi,piquerobi,1.0,0.0,1.0
+594,serra azul,serra azul,1.0,0.0,1.0
+595,pardinho,pardinho,1.0,0.0,1.0
+596,arealva,arealva,5.0,0.0,5.0
+597,pacaembu,pacaembu,6.0,0.0,6.0
+598,leme,leme,40.0,5.0,45.0
+599,parapua,parapua,8.0,0.0,8.0
+600,capao bonito,capao bonito,34.0,0.0,34.0
+601,paranapanema,paranapanema,12.0,0.0,12.0
+602,taubate,taubate,268.0,38.0,306.0
+603,nova luzitania,nova luzitania,1.0,0.0,1.0
+604,riolandia,riolandia,3.0,0.0,3.0
+605,itupeva,itupeva,53.0,0.0,53.0
+606,flora rica,flora rica,1.0,0.0,1.0
+607,sao pedro do turvo,sao pedro do turvo,1.0,0.0,1.0
+608,artur nogueira,artur nogueira,41.0,8.0,49.0
+609,tuiuti,tuiuti,1.0,0.0,1.0
+610,tanabi,tanabi,11.0,6.0,17.0
+611,nova europa,nova europa,2.0,0.0,2.0
+612,oscar bressane,oscar bressane,3.0,0.0,3.0
+613,lindoia,lindoia,9.0,0.0,9.0
+614,nantes,nantes,1.0,0.0,1.0
+615,aracoiaba da serra,aracoiaba da serra,11.0,0.0,11.0
+616,rubiacea,rubiacea,1.0,0.0,1.0
+617,campinas,campinas,1470.0,692.0,2162.0
+618,monte aprazivel,monte aprazivel,11.0,0.0,11.0
+619,ibiuna,ibiuna,31.0,0.0,31.0
+620,itariri,itariri,7.0,0.0,7.0
+621,piedade,piedade,20.0,0.0,20.0
+622,guapiara,guapiara,3.0,0.0,3.0
+623,atibaia,atibaia,151.0,356.0,507.0
+624,marinopolis,marinopolis,2.0,0.0,2.0
+625,guariba,guariba,11.0,470.0,481.0
+626,santa rita d'oeste,santa rita d'oeste,2.0,0.0,2.0
+627,ferraz de  vasconcelos,ferraz de  vasconcelos,0.0,2.0,2.0
+628,castilho,castilho,9.0,0.0,9.0
+629,botucatu,botucatu,88.0,77.0,165.0
+630,votorantim,votorantim,93.0,207.0,300.0
+631,emilianopolis,emilianopolis,2.0,0.0,2.0
+632,tabao da serra,tabao da serra,0.0,2.0,2.0
+633,itirapina,itirapina,1.0,4.0,5.0
